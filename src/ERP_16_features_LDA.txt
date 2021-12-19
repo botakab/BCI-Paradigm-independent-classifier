@@ -1,0 +1,22 @@
+Sesssion  1, Subject  1:	0.8468
+Sesssion  1, Subject  2:	0.9597
+Sesssion  1, Subject  3:	0.9074
+Sesssion  1, Subject  4:	0.8444
+Sesssion  1, Subject  5:	0.8782
+Sesssion  1, Subject  6:	0.9111
+Sesssion  1, Subject  7:	0.9231
+Sesssion  1, Subject  8:	0.8537
+Sesssion  1, Subject  9:	0.8764
+Sesssion  1, Subject 10:	0.8764
+Sesssion  2, Subject  1:	0.8657
+Sesssion  2, Subject  2:	0.9444
+Sesssion  2, Subject  3:	0.9125
+Sesssion  2, Subject  4:	0.9208
+Sesssion  2, Subject  5:	0.8468
+Sesssion  2, Subject  6:	0.8926
+Sesssion  2, Subject  7:	0.9213
+Sesssion  2, Subject  8:	0.8750
+Sesssion  2, Subject  9:	0.8421
+Sesssion  2, Subject 10:	0.8894
+
+Average:	0.8894
